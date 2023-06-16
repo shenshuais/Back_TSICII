@@ -19,7 +19,7 @@ spec:
         - containerPort: 5000
         env:
           - name: MONGO_HOST
-            value: "192.168.231.129"
+            value: "192.168.231.131"
           - name: MONGO_PORT
             value: "32001"
 ---
